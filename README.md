@@ -19,7 +19,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/DevMedina15?tab=followers" align="center">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/DevMedina15.svg?style=social&label=Follow" />
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/DevMedina15?style=social" />
   </a>
 </p>
 
