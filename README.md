@@ -17,7 +17,7 @@
   <a href="https://github.com/DevMedina15" align="center">
     <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=DevMedina15.DevMedina15" />
   </a>
-  &nbsp;&nbsp; <!-- un poco de espacio entre badges -->
+  &nbsp;&nbsp;
   <a href="https://github.com/DevMedina15?tab=followers" align="center">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/DevMedina15.svg?style=social&label=Follow" />
   </a>
